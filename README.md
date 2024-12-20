@@ -7,6 +7,9 @@ Hindi Text Classification Project is a multi-label classification system designe
 2. **NLPGUI.ipynb**  
    - Notebook for launching a Gradio-based interactive User Interface (UI) for real-time predictions using saved models.
 
+## Dataset:
+Inshorts Dataset - Hindi News available at [Kaggle](https://www.kaggle.com/datasets/shivamtaneja2304/inshorts-dataset-hindi)
+
 ## How to Use:
 
 ### **1. Clone the Repository**
